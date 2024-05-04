@@ -87,6 +87,10 @@ color: var(--cor-2);
     background-color: var(--cor-11);
 }
 
+.titulo {
+    background: url("../../img/top-right.svg") no-repeat top right 20px;
+}
+
 .titulo p{
 margin-bottom: 4px;
 }
